@@ -3,6 +3,8 @@
 - HTML
 - CSS
 - JavaScript
+    - Vue
+    - React
 
 # 学習の手順
 
