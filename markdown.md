@@ -1,6 +1,11 @@
-# リンク集
+# 質問
 
-- https://dotinstall.com
-- https://example.com
-- https://google.com
-- [ドットインストール](https://dotinstall.com)
+次のコードについて教えてください。
+特に `return 0;`の意味がわかりません。
+
+```
+function f() {
+    return 0;
+}
+```
+
