@@ -1,11 +1,2 @@
-# 質問
-
-次のコードについて教えてください。
-特に `return 0;`の意味がわかりません。
-
-```
-function f() {
-    return 0;
-}
-```
+![ドットインストール画像](https://dotinstall.com/img/box/main-symbols/ecommerce-seagreen.png?v=20190130)
 
