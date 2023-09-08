@@ -1,13 +1,6 @@
-# 保有スキル
+# リンク集
 
-- HTML
-- CSS
-- JavaScript
-    - Vue
-    - React
-
-# 学習の手順
-
-1. 動画を見る
-1. コードを書く
-1. 改造する
+- https://dotinstall.com
+- https://example.com
+- https://google.com
+- [ドットインストール](https://dotinstall.com)
